@@ -6,7 +6,7 @@
   after the colon. Your email must end in @umindanao.edu.ph.
 -->
 
-First Name: g
+First Name: 
 Last Name: 
 Program: 
 UMindanao Email: 
